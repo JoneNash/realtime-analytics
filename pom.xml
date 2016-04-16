@@ -7,7 +7,7 @@
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>storm-search</name>
+	<name>storm-analytics</name>
 	<url>https://github.com/ldsimonassi/storm-search</url>
 
 	<properties>
