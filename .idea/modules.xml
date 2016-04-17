@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/storm-analytics.iml" filepath="$PROJECT_DIR$/storm-analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/realtime-analytics.iml" filepath="$PROJECT_DIR$/realtime-analytics.iml" />
     </modules>
   </component>
 </project>
