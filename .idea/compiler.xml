@@ -24,8 +24,16 @@
         <processorPath useClasspath="true" />
         <module name="storm-analytics" />
       </profile>
+      <profile default="false" name="Annotation profile for realtime-analytics" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="realtime-analytics" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="realtime-analytics" target="1.6" />
       <module name="storm-analytics" target="1.6" />
     </bytecodeTargetLevel>
   </component>
